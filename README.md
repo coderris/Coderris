@@ -7,13 +7,6 @@ I´m currently trying to improve my skills and push my limits
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Coderris&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Coderris&theme=dark&hide_border=true)<br/>
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Coderris&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 <picture>
