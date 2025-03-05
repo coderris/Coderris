@@ -3,14 +3,13 @@ I´m currently trying to improve my skills and push my limits
 
 
 ## 🌐 Socials:
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/monerris_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luis.anton0910@gmail.com) 
+<center>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/monerris_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luis.anton0910@gmail.com) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<center>![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Coderris&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Coderris&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coderris&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### 🔝 Top Contributed Repo
