@@ -1,7 +1,7 @@
 # 💫 About Me:
 🚀 Physics Student | 42 Málaga Cursus
 
-Physics enthusiast and software developer in training at 42 Málaga. Combining rigorous problem-solving from physics with modern programming practices to build efficient and scalable solutions.
+Physics enthusiast and software developer in training at 42 Málaga.
 
 Currently learning low-level programming, systems design, and software engineering principles. Passionate about translating complex physical concepts into elegant code. Always eager to learn, collaborate, and tackle challenging problems.
 
